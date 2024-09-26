@@ -1,0 +1,17 @@
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Cosmos.CRTCompat.dll
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Content.Text.Service.deps.json
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Content.Text.Service.dll
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Content.Text.Service.pdb
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Content.Shared.dll
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\bin\Release\net8.0\Content.Shared.pdb
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.csproj.AssemblyReference.cache
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.AssemblyInfoInputs.cache
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.AssemblyInfo.cs
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.csproj.CoreCompileInputs.cache
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content..91C410EA.Up2Date
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.dll
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\refint\Content.Text.Service.dll
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\Content.Text.Service.pdb
+C:\Users\61094320\source\repos\MicroService-Upload\Content.Text\Content.Text.Service\obj\Release\net8.0\ref\Content.Text.Service.dll
